@@ -17,6 +17,9 @@ I am a highly motivated and passionate professional in the field of web developm
 - Bootstrap
 - WordPress
 - Shopify
+- Magento
+- Laravel
+- CodeIgniter
 
 ## Work Experience
 ### Fresher Web Developer
